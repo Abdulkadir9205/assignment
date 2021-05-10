@@ -1,0 +1,40 @@
+ul li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+}
+
+ul li a {
+    text-decoration: none !important;
+}
+
+.banner{
+    background: url(img/banner/home-banner.jpg);
+    height: 120vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header{
+    padding-top: 400px !important;
+}
+
+.butt:hover{
+    background-color: white !important;
+    color: blue !important;
+    border:none !important;
+    
+}
+
+.but:hover{
+    color: white !important;
+}
+
+.sub-section{
+    background: url(img/banner/pattern_bg.jpg);
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}

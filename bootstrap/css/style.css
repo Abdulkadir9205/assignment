@@ -1,0 +1,53 @@
+@charset "UTF-8";
+:root{
+
+	.homepage{
+		width: 100%;
+		height: 650px;
+	}
+
+	/*.login{
+		width: 100%;
+		height: 600px;*/
+	}
+	.earn{
+		margin-top: 200px;
+		font-family: Tw Cen MT
+	}
+	.cari{
+		margin-top: 100px;
+	}
+	.carica{
+		width: 350px;
+		height: 350px;
+	}
+	/*.pro{
+		font-size: 60px;
+
+	}*/
+	.mafo :hover{
+		display: block;
+
+	}
+	.nav-link:hover{
+		border-bottom: 2px solid green;
+		transition: all 0.9ms ease-in-out;
+	}
+	.btn-rounded{
+		border-radius: 40px;
+	}
+	.footer{
+		width: 100%;
+		height: auto;
+		clear: both;
+		
+	}
+	.newsbtn{
+		.margin: 0px !important;
+	}
+
+	.logcard{
+		margin-top: 120px;
+		height: auto;
+	}
+}
